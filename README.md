@@ -85,6 +85,14 @@ RESULT: LIKELY PHISHING
 - Applying Python string operations for threat detection.
 - Developing a basic rule-based cybersecurity tool.
 
+## 8. Project Demonstration
+
+### Live Demo Video
+
+[![Watch Phishing Email Identifier Demo](https://drive.google.com/thumbnail?id=1NFm8LN6Csrup9Dzq2wh9fS8NYl64DP9H&sz=w1000)](https://drive.google.com/file/d/1NFm8LN6Csrup9Dzq2wh9fS8NYl64DP9H/preview)
+
+**[▶ Watch Phishing Email Identifier Demonstration](https://drive.google.com/file/d/1NFm8LN6Csrup9Dzq2wh9fS8NYl64DP9H/view)**
+
 ## Author
 Cybersecurity Internship Demonstration Project.
 
